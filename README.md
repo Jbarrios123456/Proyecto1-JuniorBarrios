@@ -7,7 +7,8 @@
 1. Calcular el factorial de un numero
 2. Sistema de Subsidio de Familias
 3. Fin del algoritmo
-
+   
 ### El algoritmo terminaran unicamente si el usuario ingresa el numero **3**
+# Links de los archivos
 # Link de Documentación externa de mi proyecto
 [Documentacion externa Proyecto 1 - Junior Barrios](https://github.com/Jbarrios123456/Documentaci-n)
