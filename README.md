@@ -10,5 +10,9 @@
    
 ### El algoritmo terminaran unicamente si el usuario ingresa el numero **3**
 # Links de los archivos
+[Formato PseInt](https://github.com/Jbarrios123456/Proyecto1-JuniorBarrios/blob/main/Proyecto1.psc)
+[Formato C++](https://github.com/Jbarrios123456/Proyecto1-JuniorBarrios/blob/main/Proyecto1c%2B%2B.cpp)
+[Formato Phyton](https://github.com/Jbarrios123456/Proyecto1-JuniorBarrios/blob/main/Proyecto1py.py)
 # Link de Documentación externa de mi proyecto
+
 [Documentacion externa Proyecto 1 - Junior Barrios](https://github.com/Jbarrios123456/Documentaci-n)
