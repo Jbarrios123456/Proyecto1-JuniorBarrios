@@ -10,3 +10,4 @@
 
 ### El algoritmo terminaran unicamente si el usuario ingresa el numero **3**
 # Link de Documentación externa de mi proyecto
+[Documentacion externa Proyecto 1 - Junior Barrios](https://github.com/Jbarrios123456/Documentaci-n)
