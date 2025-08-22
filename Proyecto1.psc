@@ -1,9 +1,9 @@
-Algoritmo sin_titulo
+Algoritmo proyecto1_jb
 	Definir op,factorial, numero, bono,donacion Como real;
 	Definir cantihijos, j, edad,i Como Entero; 
 	Repetir
 		Repetir
-			Escribir "¡¡¡BIENVENIDO!!!";
+			Escribir "Â¡Â¡Â¡BIENVENIDO!!!";
 			Escribir "INGRESE EL NUMERO DE OPCION QUE DESEE REALIZAR";
 			Escribir "1. Calcular el Factorial de un numero";
 			Escribir "2. Programa de ayuda social/Subsidio de familias";
@@ -11,7 +11,7 @@ Algoritmo sin_titulo
 			Leer op;
 			
 			Si op<1 O op>3 Entonces
-				Escribir "xxxxx Número inválido, ingrese un número entre 1 y 3 xxxxx";
+				Escribir "xxxxx NÃºmero invÃ¡lido, ingrese un nÃºmero entre 1 y 3 xxxxx";
 			FinSi
 		Hasta Que op>=1 o op<=3
 		Segun op Hacer
