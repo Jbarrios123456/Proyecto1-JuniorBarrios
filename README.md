@@ -1,3 +1,12 @@
-# PROYECTO 1 - JUNIOR BARRIOS 
+# PROYECTO 1 - JUNIOR BARRIOS
 ## Carnet: 7690-25-16187
-<center><img width="224" height="225" alt="image" src="https://github.com/user-attachments/assets/30442c19-36da-4c52-82ca-ca0d143cdb0c" /></center>
+![Universidad Mariano Galvez](https://aprende.guatemala.com/wp-content/uploads/2016/09/guatemala-universidadmarianogalvez.jpg)
+> Universidad Mariano Galvez
+
+### Mi proyecto se basa en la creación de un menu con 3 diferentes opciones incluidas 
+- Calcular el factorial de un numero
+- Sistema de Subsidio de Familias
+- Fin del algoritmo
+
+### El algoritmo terminaran unicamente si el usuario ingresa el numero 3
+# Link de Documentación externa de mi proyecto
