@@ -4,9 +4,9 @@
 > Universidad Mariano Galvez
 
 ### Mi proyecto se basa en la creación de un menu con 3 diferentes opciones incluidas 
-- Calcular el factorial de un numero
-- Sistema de Subsidio de Familias
-- Fin del algoritmo
+1. Calcular el factorial de un numero
+2. Sistema de Subsidio de Familias
+3. Fin del algoritmo
 
-### El algoritmo terminaran unicamente si el usuario ingresa el numero 3
+### El algoritmo terminaran unicamente si el usuario ingresa el numero **3**
 # Link de Documentación externa de mi proyecto
